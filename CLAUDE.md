@@ -40,6 +40,8 @@ Claude is the central brain managing this entire ecosystem. All development, int
 
 \- \[x] Google Cloud Platform (funnelfunction.com@gmail.com)
 
+\- \[x] Render.com (funnelfunction.com@gmail.com)
+
 \- \[ ] Other integrations as needed
 
 
@@ -94,6 +96,22 @@ Claude is the central brain managing this entire ecosystem. All development, int
 
 
 
+\## Render.com Configuration
+
+\- \*\*Account\*\*: funnelfunction.com@gmail.com
+
+\- \*\*Dashboard\*\*: https://dashboard.render.com
+
+\- \*\*API Key Name\*\*: FunnelFunction-APIKeys-Render
+
+\- \*\*API Key\*\*: rnd_nGAEtm5M3GJ5JUglNDhe8yfowhtl
+
+\- \*\*Documentation\*\*: https://render.com/docs/api
+
+\- Note: Use this API key for deployments and managing Render services
+
+
+
 \## Standing Instructions for Claude
 
 1\. Always work within this ecosystem context
@@ -117,6 +135,8 @@ Claude is the central brain managing this entire ecosystem. All development, int
 \- \[x] Set up Supabase integration
 
 \- \[x] Authenticate Google Cloud Platform
+
+\- \[x] Set up Render.com with API key
 
 \- \[ ] Set up other integrations as needed
 
